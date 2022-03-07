@@ -1,0 +1,57 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+div div{
+    background: #8497b0;
+    height: 60PX;
+    width: 60PX;
+}
+
+.contenedor{
+    position: relative;
+    background: #f8cbad;
+    height: 300px;
+    width: 300px;
+    margin: 50px;
+    top: 500px;
+    left: 500px;
+}
+
+.caja1{
+    display: block;
+    position: relative;
+    left: 0px;
+    top:0px;
+}
+
+.caja2{
+    display: block;
+    position: relative;
+    left: 240px;
+    top:-60px;
+}
+
+.caja3{
+    display: block;
+    position: relative;
+    left: 0px;
+    top:120px;
+}
+
+.caja4{
+    display: block;
+    position: relative;
+    left: 240px;
+    top:60px;
+}
+
+
+.caja5{
+    display: block;
+    position: relative;
+    left: 120px;
+    top:-120px;
+}
