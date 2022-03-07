@@ -1,0 +1,11 @@
+scatter: 
+https://bl.ocks.org/d3noob/38744a17f9c0141bcd04
+
+colors boostrap:
+https://getbootstrap.com/docs/4.0/utilities/colors/
+
+buttons:
+https://getbootstrap.com/docs/4.0/components/buttons/
+
+tamaños filas:
+https://getbootstrap.com/docs/4.0/layout/grid/
